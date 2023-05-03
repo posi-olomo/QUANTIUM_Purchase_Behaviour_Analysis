@@ -2,7 +2,7 @@
 Performed data analysis on chip purchases at Supermarkets using Customer transaction data provided by QUANTIUM via Forage to get the following insights:
 
 The following Chips should always be stocked across all stores due to their high demand:
-|S/N | Chip | Demand |
+| S/N | Chip  | Demand  |
 |1| Kettle Mozzarella   Basil & Pesto 175g | 6381|
 |2| Kettle Tortilla ChpsHny&Jlpno Chili 150g| 6309|
 |3| Cobs Popd Sea Salt  Chips 110g | 6277|
